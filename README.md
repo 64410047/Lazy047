@@ -1,2 +1,2 @@
 # Lazy047
- <img src = /ra.JPG>
+ <img src = /Ra.JPG>
