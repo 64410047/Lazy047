@@ -1,0 +1,50 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="image1">image1</string>
+    <string name="image2">image2</string>
+    <string name="image3">image3</string>
+    <string name="image4">image4</string>
+    <string name="image5">image5</string>
+    <string name="image6">image6</string>
+    <string name="image7">image7</string>
+    <string name="image8">image8</string>
+    <string name="image9">image9</string>
+    <string name="ra1">ra1</string>
+    <string name="ra2">ra2</string>
+    <string name="ra3">ra3</string>
+    <string name="ra4">ra4</string>
+    <string name="ra5">ra5</string>
+    <string name="ra6">ra6</string>
+    <string name="ra7">ra7</string>
+    <string name="ra8">ra8</string>
+    <string name="ra9">ra9</string>
+    <string name="ra10">ra10</string>
+    <string name="ra11">ra11</string>
+    <string name="ra12">ra12</string>
+    <string name="ra13">ra13</string>
+    <string name="ra14">ra14</string>
+    <string name="ra15">ra15</string>
+    <string name="image10">image10</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="tech">Tech</string>
+    <string name="K" />
+
+
+</resources>
